@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   />
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrus1811&layout=compact&theme=onedark&hide_border=true&langs_count=6&hide=html,css,nix,jupyter%20notebook" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarrus1811&layout=compact&theme=onedark&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook" 
     alt="sarrus1811's Top Languages"
     style="margin: 0 5px;"
   />
